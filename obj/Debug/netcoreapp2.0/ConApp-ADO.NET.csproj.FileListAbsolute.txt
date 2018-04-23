@@ -1,3 +1,10 @@
 /home/mrk/Work Station/Github/ConApp-ADO.NET/obj/Debug/netcoreapp2.0/ConApp-ADO.NET.csproj.CoreCompileInputs.cache
 /home/mrk/Work Station/Github/ConApp-ADO.NET/obj/Debug/netcoreapp2.0/ConApp-ADO.NET.AssemblyInfoInputs.cache
 /home/mrk/Work Station/Github/ConApp-ADO.NET/obj/Debug/netcoreapp2.0/ConApp-ADO.NET.AssemblyInfo.cs
+/home/mrk/Work Station/Github/ConApp-ADO.NET/bin/Debug/netcoreapp2.0/ConApp-ADO.NET.deps.json
+/home/mrk/Work Station/Github/ConApp-ADO.NET/bin/Debug/netcoreapp2.0/ConApp-ADO.NET.runtimeconfig.json
+/home/mrk/Work Station/Github/ConApp-ADO.NET/bin/Debug/netcoreapp2.0/ConApp-ADO.NET.runtimeconfig.dev.json
+/home/mrk/Work Station/Github/ConApp-ADO.NET/bin/Debug/netcoreapp2.0/ConApp-ADO.NET.dll
+/home/mrk/Work Station/Github/ConApp-ADO.NET/bin/Debug/netcoreapp2.0/ConApp-ADO.NET.pdb
+/home/mrk/Work Station/Github/ConApp-ADO.NET/obj/Debug/netcoreapp2.0/ConApp-ADO.NET.dll
+/home/mrk/Work Station/Github/ConApp-ADO.NET/obj/Debug/netcoreapp2.0/ConApp-ADO.NET.pdb
