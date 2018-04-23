@@ -36,6 +36,22 @@ namespace ConApp_ADO.NET
             DataColumn bm = new DataColumn("Brand and Model");
             bm.Expression = "Brand + ' ' + Model";
             cars.Columns.Add(bm);
+
+            cars.PrimaryKey = new DataColumn[] { vin };
+        }
+        public void AddRows()
+        {
+            DataRow newCar = cars.NewRow();
+            newCar["Vin"] = "987654321";
+            newCar["Brand"] = "Ford";
+            newCar["Model"] = "GH254";
+            newCar["Year"] = 2010;
+            cars.Rows.Add(newCar);
+
+            cars.Rows.Add("123456789", "Audi", "AX150", 2012);
+            cars.Rows.Add("213456789", "Nexus", "NX205", 2013);
+
+            cars.LoadDataRow(new object[] {"213456789", "Nano", "ST400", 2015}, LoadOption.OverwriteChanges);
         }
     }
 }
