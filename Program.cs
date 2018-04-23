@@ -6,7 +6,11 @@ namespace ConApp_ADO.NET
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Data data = new Data();
+            data.AddCols();
+            data.AddRows();
+            data.GetColInfo();
+            data.ShowAllRows();
         }
     }
 }
